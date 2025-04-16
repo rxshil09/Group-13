@@ -1,0 +1,12 @@
+this is file 1
+
+message one
+
+message two
+
+message 3
+
+this is part of master branch - 1
+this is a part of iss53 - 1
+
+this is a part of iss53 - 2
